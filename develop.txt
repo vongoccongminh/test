@@ -1,4 +1,5 @@
 
 edit local
 add web
-add loal
+add loalw
+web
