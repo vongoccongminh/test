@@ -1,3 +1,4 @@
 
 edit local
 add web
+add loal
