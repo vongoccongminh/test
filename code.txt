@@ -1,4 +1,8 @@
 lan dau tien
+<<<<<<< HEAD
 lan thu 2
 lan thu 3
 4
+=======
+lan 2
+>>>>>>> 53461d02c00bb82b758a69a556ca48486600a3e7
